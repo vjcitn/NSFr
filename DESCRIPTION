@@ -1,0 +1,14 @@
+Package: NSFr
+Title: NSforest in R (via reticulate+python by Aevermann/Scheuermann et al.)
+Description: code
+Version: 0.0.0
+Author: Vince Carey
+Suggests: knitr
+Depends: reticulate
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+LazyLoad: yes
+biocViews: SingleCell
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
+Encoding: UTF-8
